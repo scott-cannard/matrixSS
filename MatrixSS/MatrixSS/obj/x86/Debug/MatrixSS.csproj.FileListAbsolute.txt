@@ -1,0 +1,7 @@
+C:\Users\Kristin\Documents\Visual Studio 2010\Projects\MatrixSS\MatrixSS\MatrixSS\bin\x86\Debug\MatrixSS.exe
+C:\Users\Kristin\Documents\Visual Studio 2010\Projects\MatrixSS\MatrixSS\MatrixSS\bin\x86\Debug\MatrixSS.pdb
+C:\Users\Kristin\Documents\Visual Studio 2010\Projects\MatrixSS\MatrixSS\MatrixSS\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Kristin\Documents\Visual Studio 2010\Projects\MatrixSS\MatrixSS\MatrixSS\obj\x86\Debug\MatrixSS.exe
+C:\Users\Kristin\Documents\Visual Studio 2010\Projects\MatrixSS\MatrixSS\MatrixSS\obj\x86\Debug\MatrixSS.pdb
+C:\Users\Kristin\Documents\Visual Studio 2010\Projects\MatrixSS\MatrixSS\MatrixSS\bin\x86\Debug\Content\temp.xnb
+C:\Users\Kristin\Documents\Visual Studio 2010\Projects\MatrixSS\MatrixSS\MatrixSS\obj\x86\Debug\MatrixSS.csprojResolveAssemblyReference.cache
